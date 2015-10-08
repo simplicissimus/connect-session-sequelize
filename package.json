@@ -1,16 +1,16 @@
 {
   "name": "connect-session-sequelize"
-  , "version": "2.3.1"
+  , "version": "2.3.2"
   , "description": "Session store for connect-session using sequelize"
-  , "homepage": "https://github.com/mweibel/connect-session-sequelize"
-  , "bugs": "https://github.com/mweibel/connect-session-sequelize/issues"
+  , "homepage": "https://github.com/simplicissimus/connect-session-sequelize"
+  , "bugs": "https://github.com/simplicissimus/connect-session-sequelize/issues"
   , "main": "index.js"
   , "scripts": {
     "test": "mocha ./test"
   }
   , "repository": {
 	"type": "git"
-	, "url": "https://github.com/mweibel/connect-session-sequelize.git"
+	, "url": "https://github.com/simplicissimus/connect-session-sequelize.git"
   }
   , "dependencies": {
     "debug": "^2.1.1"
